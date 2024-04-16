@@ -5,13 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- @author: Nombre del autor del código.
-- @version: Versión del software.
-- @since: Desde qué versión está disponible el <b>método</b>.
-- @param: Descripción de un parámetro del <b>método</b>.
-- @return: Descripción del valor de retorno del <b>método</b>.
-- @deprecated: Indica que el <b>elemento</b> está obsoleto. {@link #ctrl+espace}
-- @see: para llamar a otras <b>clases</b>
+
 <!---
 Hugo-Andres-Gaspar/Hugo-Andres-Gaspar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
